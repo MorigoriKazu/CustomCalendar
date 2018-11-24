@@ -1,5 +1,8 @@
 # CustomCalendar
-C# Custom Calendar
+C# Custom Calendar  
+
+# Flamework
+.NET Flamework 4.7.1  
 
 # LICENSE
 MIT
@@ -10,6 +13,9 @@ Can select the year by clicking the year label.
 Can select the month by clicking the month label.  
 Can select the day by clicking the day panel.  
 Can select more than day by ctrl and clicking the day panel.  
+
+# フレームワーク
+.NET Flamework 4.7.1  
 
 # ライセンス
 MITを適用  
